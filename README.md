@@ -1,4 +1,4 @@
-# Instagram Clone
+# PICTOGRAM - SOCIAL MEDIA APP
 
 A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
