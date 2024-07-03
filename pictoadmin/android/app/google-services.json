@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51899639307",
+    "project_id": "picto-e174b",
+    "storage_bucket": "picto-e174b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51899639307:android:e7d6a52ae1c8a50251090e",
+        "android_client_info": {
+          "package_name": "com.example.picto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3ZzqkxHs4jd9PUgzNAr2Eyw2ZUX9pbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51899639307:android:1b274d188d4ff1de51090e",
+        "android_client_info": {
+          "package_name": "com.example.pictoadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3ZzqkxHs4jd9PUgzNAr2Eyw2ZUX9pbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
